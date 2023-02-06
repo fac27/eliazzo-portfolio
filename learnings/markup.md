@@ -4,7 +4,7 @@ We created a simple mock agency website with a focus on using concise semantic h
 
 ## 2. Ensure a web page is readable for screen readers
 
-To ensure the web page is readable for screen readers, we ensured we were using the correct <h> elements with only one <h1> tag on the page. We included detailed alt tags so that users were informed of the img contents in instances where they could not see the img itself. We styled the page in order to meet the accessibility requirements (see 3).
+To ensure the web page is readable for screen readers, we ensured we were using the correct < h > elements with only one < h1 > tag on the page. We included detailed alt tags so that users were informed of the img contents in instances where they could not see the img itself. We styled the page in order to meet the accessibility requirements (see 3).
 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
@@ -21,7 +21,7 @@ We used the Chrome "Lighthouse" tab in the Developer Tools which can run differe
 
 ## 5. Use CSS media queries to ensure our content is always presented effectively on screens of different sizes
 
-![Mobile view](/Images/Mobile%20view.png
+![Mobile view](Images/Mobile%20view.png
 
 ## 6. Demonstrate a mobile-first approach to building a website
 
