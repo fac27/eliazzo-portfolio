@@ -21,7 +21,7 @@ We used the Chrome "Lighthouse" tab in the Developer Tools which can run differe
 
 ## 5. Use CSS media queries to ensure our content is always presented effectively on screens of different sizes
 
-![Mobile view](Images/Mobile%20view.png
+![Mobile view](/Images/Mobile%20view.png)
 
 ## 6. Demonstrate a mobile-first approach to building a website
 
