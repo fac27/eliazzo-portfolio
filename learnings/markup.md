@@ -25,7 +25,17 @@ We used the Chrome "Lighthouse" tab in the Developer Tools which can run differe
 
 ## 6. Demonstrate a mobile-first approach to building a website
 
+A mobile-first approach to styling means that styles are applied first to mobile devices. Advanced styles and other overrides for larger screens are then added into the stylesheet via media queries [(zellwk.com).](https://zellwk.com/blog/how-to-write-mobile-first-css/)
+
+We addressed the mobile first learning too late in the project and due to time constraints were unable to apply the approach. We made the page as responsive as possible without using media queries and included media queries only when absolutely necessary. Moving forward, I will definitely be adopting the mobile first approach at the earliest stages of my project.
+
 ## 7. Use CSS variables to apply repeated colours to HTML elements
+
+![CSS primitives](/Images/Primitives%20screenshot.png)
+
+The above code demonstrates our use of CSS layout primitives which were applied to multipled elements in the HTML.
+
+
 
 ## 8. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
