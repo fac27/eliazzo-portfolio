@@ -9,13 +9,13 @@ To ensure the web page is readable for screen readers, we ensured we were using 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
-![Team screenshot with contrast](Images/Team%20screenshot%20.png)
+![Team screenshot with contrast](/Images/Team%20screenshot%20.png)
 
 
 
 ## 4. Use various tools to check that our website meets accessibility criteria
 
-![Lighthouse check](Images/Lighthouse.png)
+![Lighthouse check](/Images/Lighthouse.png)
 
 We used the Chrome "Lighthouse" tab in the Developer Tools which can run different types of tests on a page, including "Accessibility". This informs you of obvious failures like low colour contrast or missing image alt text. A limitation of Lighthouse is that it cannot catch more complex problems, like a custom component that cannot be controlled with the keyboard. In order to overcome this we manually tested the page using a screen reader.
 
