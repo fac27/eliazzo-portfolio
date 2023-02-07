@@ -31,16 +31,31 @@ We addressed the mobile first learning too late in the project and due to time c
 
 ## 7. Use CSS variables to apply repeated colours to HTML elements
 
-![CSS primitives](/Images/Primitives%20screenshot.png)
+![CSS primitives](/Images/Primitives-screenshot.png))
 
-The above code demonstrates our use of CSS layout primitives which were applied to multipled elements in the HTML.
-
-
+The above code demonstrates our use of CSS layout primitives which were applied to multipled elements in the HTML. Some particularly useful primitives were the text-x primitives which we used to size different texts. 
 
 ## 8. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
+![CSS Flexbox](/Images/Flex%20screenshot.png)
+
+Each page was styled using a flexbox primitive. The above image features multiple CSS Flexbox as it was applied to the entire page but also within elements on the page such as the navbar and the 'About us' grey box section.
+
 ## 9. Use CSS Grid to style children in two-direction layout
+
+![CSS Grid](/Images/Grid%20screenshot.png)
+
+The 'Services' page was styled using grid to demonstrate our understanding of both flexbox and grid. The page is styled in a one-direction layout. If time permits, I would like to return to this and restyle the page in two-direction layout.
+
 
 ## 10. Ensure our Git commit history tells a coherent story
 
+![Git history](/Images/Project%20screenshot.png)
+
+We created an issue for every change and completed the issue via the relevant branch. We linked our issues to the github project feature.
+
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
+
+![Form code](/Images/Form%20sreenshot.png)
+
+The above code demonstrates our use of < form >, < label >, and < input > and < button > tags. The < input > and < button > tags feature the appropriate type attributes.
