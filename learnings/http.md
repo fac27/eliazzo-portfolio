@@ -13,31 +13,34 @@ We used the built-in browser API "Fetch" which returned a promise that resolves 
 > "Fetch" it is not a type of promise itself. Rather, it is a function that returns a promise.
 
 ## 4. Use the fetch method to make HTTP requests and receive responses
-![Using fetch to access the dog API](/Images/getDog()%20fetch.png)
+![Using fetch to access the dog API](/Images/HTTP/getDog()%20fetch.png)
 
 ## 5. Configure the options argument of the fetch method to make GET and POST requests
-![GET](/Images/GET.png)
+![GET](/Images/HTTP/GET.png)
 
 ## 6. Use the map array method to create a new array containing new values
-![Using map](/Images/map().png)
+![Using map](/Images/HTTP/map().png)
 
 ## 7. Use the filter array method to create a new array with certain values removed
-![Using filter](/Images/filter.png)
+![Using filter](/Images/HTTP/filter.png)
 
 ## 8. Access DOM nodes using a variety of selectors
 
 Writing this, it has come to my attention that we only used getElementById 🙀. However, I feel confident using other selectors such as getElementsByClassName, getElementsByTagName, querySelector, querySelectorAll, parentNode and getAttribute (among others).
 
 ## 9. Add and remove DOM nodes to change the content on the page
-![Add dom](/Images/add%20dom%20nodes.png)
+![Add dom](/Images/HTTP/add%20dom%20nodes.png)
 
 ## 10. Toggle the classes applied to DOM nodes to change their CSS properties
 
 This is not something we used, however one might toggle the class on an element using the classList property. 
+
 To add the "active" class to the element:
 > myElement.classList.add('active');
+
 To remove the "active" class:
 > myElement.classList.remove('active');
+
 To toggle the "active" class::
 > myElement.classList.toggle('active');
 
@@ -49,7 +52,7 @@ You can also check if a class is currently applied to the element using the cont
 ## 11. Use consistent layout and spacing
 
 We used CSS primitives to apply consistent layout and spacing CSS.
-![css primitives](/Images/CSS%20primitives.png)
+![css primitives](/Images/HTTP/CSS%20primitives.png)
 
 ## 12. Follow a spacing guideline to give our app a consistent feel
 
