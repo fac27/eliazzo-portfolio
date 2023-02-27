@@ -1,15 +1,17 @@
+## eliazzo - portfolio
+
 ## Purpose
 
-The purpose of this portfolio is to demonstrate the learning outcomes you've attained during your time at Founders and Coders (and beyond!). The portfolio should include code snippets and screenshots projects you've worked on, which will serve as evidence of your knowledge and abilities when you do your assessments.
+The purpose of this portfolio is to demonstrate the skills I have learnt during my term on the Founders and Coders bootcamp. 
 
-This portfolio template is also designed to showcase your skills and achievements to potential employers and others. By regularly updating your portfolio with new projects and learning outcomes, you can demonstrate your ongoing growth and development as a programmer.
-
-## Example from previous cohorts
-
-- https://github.com/DominicSimpson/portfolio
+The following links outline three of the topics covered and feature the learning objectives alongside code snippets and screenshots of projects I've worked on.
 
 ## Learnings
 
 1. [Markup](/learnings/markup.md)
 1. [HTTP](/learnings/http.md)
-1. [Testing](/learnings/testing.md)
+1. [Testing](/learnings/testing.md) (in progress)
+
+<!-- ## Example from previous cohorts
+
+- https://github.com/DominicSimpson/portfolio -->
