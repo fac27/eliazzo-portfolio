@@ -15,12 +15,14 @@ Creating a new list was only possible if the user had written a new list heading
 3. Write testable, modular functions
 
 ``errorMessage()``, ``removeErrorMessage()`` are examples of modular functions that were later used when creating a new list or adding a new item to a list.
+
 ![error functions](/Images/TESTING/error().png)
 
 ``randomColor()`` is another example of a modular function that is used when creating new lists.
 ![randomColor()](/Images/TESTING/randomColor().png)
 
 As these were additional user stories, time constraints prevented us from writing tests. However, you will find the deleteEntry() function and it's corresponding test below.
+
 ![deleteEntry()](/Images/TESTING/deleteEntry().png)
 ![deleteEntry() test](/Images/TESTING/deleteEntry()test.png)
 
@@ -34,6 +36,7 @@ We used ``.cloneNode`` within submitToDo() to access elements in the HTML file a
 
 Users can create new checkists using the new list form. An event listener was applied to the submitList (+) button.
 `` submitList.addEventListener("click", newList) ``
+
 ![form UI](/Images/TESTING/FormUI.png)
 
 6. Use scope to control what variables are accessible inside functions and blocks
