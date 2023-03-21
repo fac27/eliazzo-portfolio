@@ -42,7 +42,8 @@ In some instances, variables were declared globally. For example, when declaring
 ![listFormBtn event listener](/Images/TESTING/listFormBtn.png)
 ![submit list event listener](/Images/TESTING/SubmitList%20.png)
 
-Generally, we tried to keep variables within their relevant functions and minimise unnecessary scope.
+Generally, we tried to keep variables within their relevant functions and minimise unnecessary scope. The two exceptions were``newListform`` and ``card`` as these were used within some functions and passed as arguments to some functions.
+![global variables](/Images/TESTING/Global.png)
 
 <!-- 7. Use CSS grid to create complex layouts
 
