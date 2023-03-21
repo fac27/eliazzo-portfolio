@@ -9,19 +9,19 @@ To ensure the web page is readable for screen readers, we ensured we were using 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
-![Team screenshot with contrast](/Images/Team%20screenshot%20.png)
+![Team screenshot with contrast](/Images/MARKUP/Team%20screenshot%20.png)
 
 
 
 ## 4. Use various tools to check that our website meets accessibility criteria
 
-![Lighthouse check](/Images/Lighthouse.png)
+![Lighthouse check](/Images/MARKUP/Lighthouse.png)
 
 We used the Chrome "Lighthouse" tab in the Developer Tools which can run different types of tests on a page, including "Accessibility". This informs you of obvious failures like low colour contrast or missing image alt text. A limitation of Lighthouse is that it cannot catch more complex problems, like a custom component that cannot be controlled with the keyboard. In order to overcome this we manually tested the page using a screen reader.
 
 ## 5. Use CSS media queries to ensure our content is always presented effectively on screens of different sizes
 
-![Mobile view](/Images/Mobile%20view.png)
+![Mobile view](/Images/MARKUP/Mobile%20view.png)
 
 ## 6. Demonstrate a mobile-first approach to building a website
 
@@ -31,31 +31,31 @@ We addressed the mobile first learning too late in the project and due to time c
 
 ## 7. Use CSS variables to apply repeated colours to HTML elements
 
-![CSS primitives](/Images/Primitives-screenshot.png))
+![CSS primitives](/Images/MARKUP/Primitives-screenshot.png)
 
 The above code demonstrates our use of CSS layout primitives which were applied to multipled elements in the HTML. Some particularly useful primitives were the text-x primitives which we used to size different texts. 
 
 ## 8. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
-![CSS Flexbox](/Images/Flex%20screenshot.png)
+![CSS Flexbox](/Images/MARKUP/Flex%20screenshot.png)
 
 Each page was styled using a flexbox primitive. The above image features multiple CSS Flexbox as it was applied to the entire page but also within elements on the page such as the navbar and the 'About us' grey box section.
 
 ## 9. Use CSS Grid to style children in two-direction layout
 
-![CSS Grid](/Images/Grid%20screenshot.png)
+![CSS Grid](/Images/MARKUP/Grid%20screenshot.png)
 
 The 'Services' page was styled using grid to demonstrate our understanding of both flexbox and grid. The page is styled in a one-direction layout. If time permits, I would like to return to this and restyle the page in two-direction layout.
 
 
 ## 10. Ensure our Git commit history tells a coherent story
 
-![Git history](/Images/Project%20screenshot.png)
+![Git history](/Images/MARKUP/Project%20screenshot.png)
 
 We created an issue for every change and completed the issue via the relevant branch. We linked our issues to the github project feature.
 
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
 
-![Form code](/Images/Form%20sreenshot.png)
+![Form code](/Images/MARKUP/Form%20sreenshot.png)
 
 The above code demonstrates our use of < form >, < label >, and < input > and < button > tags. The < input > and < button > tags feature the appropriate type attributes.
