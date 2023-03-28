@@ -5,7 +5,7 @@ The project task was to build a to-do list tracker with automated tests covering
 
 1. Check that passing a given input into our tests returns the expected output
 
-The equal() function was passed into each test to test that the output of the test was as expected.
+The equal() function was passed into each test to test that the output of the test was as expected. The test() function displays the test results in the console.
 ![equal() and test() functions](/Images/TESTING/equal()%2Btest().png)
 
 
